@@ -1,7 +1,7 @@
 # IgorShcherbina
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://github.com/igorsii1976/IgorShcherbina/blob/main/IoF7E.gif" width="1000"/>
 </div>
 
 
