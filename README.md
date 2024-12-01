@@ -21,3 +21,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorsii1976&show_icons=true&theme=radical)
+
+### wanna hear a joke?😅
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
